@@ -1,0 +1,3 @@
+/home/youssefelbassiuny/compressor/build/CMakeFiles/compressor.dir
+/home/youssefelbassiuny/compressor/build/CMakeFiles/edit_cache.dir
+/home/youssefelbassiuny/compressor/build/CMakeFiles/rebuild_cache.dir

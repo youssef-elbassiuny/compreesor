@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/compressor.dir/scr/main.cpp.o -o compressor 
